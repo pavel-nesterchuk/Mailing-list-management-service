@@ -1,7 +1,7 @@
 Установка проекта с помощью docker-compose
 Склонировать репозиторий с Github
 
-git clone git@github.com:Witaly3/notification_service.git
+git clone git@github.com:pavel-nesterchuk/Mailing-list-management-service.git
 
     Перейти в директорию проекта
     В файле .evn заполнить необходимые данные: TOKEN = '<your token>'
